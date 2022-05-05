@@ -18,4 +18,4 @@ Then I evaluated and have Run the model.
 ![Screenshot (293)](https://user-images.githubusercontent.com/70439471/166973969-1ab284cf-dcb4-4671-bd8e-3700a33af1c9.png)
 ![Screenshot (294)](https://user-images.githubusercontent.com/70439471/166973979-024c2fc1-47d0-48a6-b02c-7893c6e6f090.png)
 ![Screenshot (295)](https://user-images.githubusercontent.com/70439471/166973982-1175c509-01e1-436d-8c9d-159c1b684a28.png)
-![Screenshot (295)](https://user-images.githubusercontent.com/70439471/166973987-1d50c5de-9636-44fb-8770-344ac20b5555.png)
+
